@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T10:56:34.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UDktC2HYBJZ8LjvjqO45" version="24.5.5" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-20T19:11:41.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QWUeVkYNTEKvCLUz2h15" version="24.5.5" type="device">
   <diagram name="Página-1" id="gqpN8zFhYD_opWSwKF0-">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="00TS4jX-JS3ZsfTgcpw7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="249" y="80" width="371" height="610" as="geometry" />
+          <mxGeometry x="250" y="80" width="376" height="610" as="geometry" />
         </mxCell>
         <mxCell id="00TS4jX-JS3ZsfTgcpw7-6" value="Cadastro transportadora" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="266" y="130" width="296" height="40" as="geometry" />
